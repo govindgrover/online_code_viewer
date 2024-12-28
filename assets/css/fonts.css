@@ -1,0 +1,63 @@
+/**
+  * Website:	http://www.grsoftware.in/
+  * Contributions by	:
+  *		Gopal Grover	(Developer)
+  *
+  * @author GR Software <developer@grsoftware.in>
+  */
+
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+    src: url(../fonts/ubuntu/Ubuntu-Light.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+    src: url(../fonts/ubuntu/Ubuntu-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+    src: url(../fonts/ubuntu/Ubuntu-Regular.ttf);
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+    src: url(../fonts/ubuntu/Ubuntu-Italic.ttf);
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+    src: url(../fonts/ubuntu/Ubuntu-Medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+    src: url(../fonts/ubuntu/Ubuntu-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+    src: url(../fonts/ubuntu/Ubuntu-Bold.ttf);
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ubuntu', sans-serif;
+    src: url(../fonts/ubuntu/Ubuntu-BoldItalic.ttf);
+    font-weight: 700;
+    font-style: italic;
+}

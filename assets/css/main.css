@@ -1,0 +1,16 @@
+/**
+  * Website:	http://www.grsoftware.in/
+  * Contributions by	:
+  *		Gopal Grover	(Developer)
+  *
+  * @author GR Software <developer@grsoftware.in>
+  */
+
+@import url('fonts.css');
+body:not(i) {
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+body {
+    position: relative;
+}
